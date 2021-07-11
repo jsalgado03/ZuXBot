@@ -1,0 +1,6 @@
+﻿  ZuXBot.cpp
+C:\Users\slayz.JUANELV\source\repos\ZuXBot\ZuXBot\ZuXBot.cpp(201,10): warning C4566: el carácter representado por el nombre de carácter universal '\uFFFD' no se puede representar en la página de códigos actual (1252)
+C:\Users\slayz.JUANELV\source\repos\ZuXBot\ZuXBot\ZuXBot.cpp(298,10): warning C4552: "-": el resultado de la expresión no se usa
+C:\Users\slayz.JUANELV\source\repos\ZuXBot\ZuXBot\ZuXBot.cpp(1947,14): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ZuXBot.vcxproj -> C:\Users\slayz.JUANELV\source\repos\ZuXBot\Debug\ZuXBot.exe
